@@ -8,19 +8,23 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
 ## Program Content
 ### Foundational Modules
 * Introduction to Computer Programming: Part 1
-* Introduction to ARtificial Intelligence
+  * Course
+  * Assesments
+* Introduction to Artificial Intelligence
 * Introduction to Machine Learning
 * Ethical Artifical Intelligence Practices
 * Intelligent Systems
 * Introduction to Deep Learning
 * Applied Data Analytics
 
-### Elective Modules
+### Elective Modules (30 Credits)
+
+#### Autonomous systems
 
 ## About the Master of Science in Artificial Intelligence
 The [Udacity](https://www.linkedin.com/company/udacity/) Institute of AI and Technology ([Accenture](https://www.linkedin.com/company/accenture/)'s subsidiary) and [Woolf University](https://woolf.university/), offers a pathway to a Master of Science in Artificial Intelligence. Students complete Udacity’s hands-on, project-based curriculum while earning ECTS credits transferable across 50+ countries. Degrees are awarded by Woolf, a global collegiate Higher Education Institution, ensuring the same academic recognition as other higher education institutions, at a fraction of the cost and considerably more flexibility than a traditional Master’s program.
 
-### About Udacity](https://www.linkedin.com/company/udacity/)
+### About [Udacity](https://www.linkedin.com/company/udacity/)
 Udacity, part of Accenture, is a global leader in AI and technology education—offering project-based learning programs designed in partnership with leading technology companies. Founded in 2011, Udacity has trained hundreds of thousands of students in artificial intelligence, data science, programming, and cloud computing. The company's Nanodegree programs are recognized throughout the technology industry for producing job-ready professionals with immediately applicable skills.
 
 ### About [Woolf University](https://woolf.university/)
