@@ -7,11 +7,11 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
 
 ## Program Content
 ### Foundational Modules (30 credits)
-
-#### Data Science 
 * Introduction to Computer Programming: Part 1
   * Course
   * Assesments
+    
+#### Data Science 
 * Applied Data Analytics
   * Courses: Data Analysis, Statistics for Data Analysis 
 
