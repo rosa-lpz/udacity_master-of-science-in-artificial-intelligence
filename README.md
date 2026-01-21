@@ -12,8 +12,10 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
   * Assesments
     
 #### Data Science 
-* Applied Data Analytics
-  * Courses: Data Analysis, Statistics for Data Analysis 
+* [Applied Data Analytics](https://github.com/rosa-lpz/udacity_applied-data-analytics/tree/main)
+  * Courses:
+  *  Data Analysis Nanodegree
+  *  tatistics for Data Analysis Nanodegree
 
 #### Artificial Intelligence
 * Introduction to Artificial Intelligence
