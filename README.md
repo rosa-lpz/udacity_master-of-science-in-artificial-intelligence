@@ -8,7 +8,7 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
 ## Program Content
 ### Foundational Modules (30 credits)
 * Introduction to Computer Programming: Part 1
-  * Course
+  * Course: [AI Programming with Python Nanodegree](https://github.com/rosa-lpz/udacity_ai-programming-with-python-nanodegree/tree/main)
   * Assesments
     
 #### Data Science 
