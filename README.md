@@ -8,11 +8,11 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
 ## Program Content
 ### Foundational Modules (30 credits)
 * Introduction to Computer Programming: Part 1
-  * Course: [AI Programming with Python Nanodegree](https://github.com/rosa-lpz/udacity_ai-programming-with-python-nanodegree/tree/main)
+  * Course: AI Programming with Python Nanodegree [GitHub](https://github.com/rosa-lpz/udacity_ai-programming-with-python-nanodegree/)
   * Assesments
     
 #### Data Science 
-* [Applied Data Analytics](https://github.com/rosa-lpz/udacity_applied-data-analytics/tree/main)
+* [Applied Data Analytics](https://github.com/rosa-lpz/udacity_applied-data-analytics/)
   * Courses:
   *  Data Analysis Nanodegree
   *  tatistics for Data Analysis Nanodegree
@@ -36,9 +36,12 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
 * Computer Vision
  
 #### Autonomous systems
-* Introduction to Self-Driving Cars
+* Introduction to Self-Driving Cars Nanodegree [GitHub](https://github.com/rosa-lpz/udacity_introduction-to-self-driving-cars-nanodegree) 
 * Self Driving Car Engineer
 * Sensor Fusion
+
+### Additional Modules
+* Robotics Software Engineer Nanodegree [GitHub](https://github.com/rosa-lpz/udacity_robotics-software-engineer-nanodegree/)
 
 ## More about the Master of Science in Artificial Intelligence
 The [Udacity](https://www.linkedin.com/company/udacity/) Institute of AI and Technology ([Accenture](https://www.linkedin.com/company/accenture/)'s subsidiary) and [Woolf University](https://woolf.university/), offers a pathway to a Master of Science in Artificial Intelligence. Students complete Udacity’s hands-on, project-based curriculum while earning ECTS credits transferable across 50+ countries. Degrees are awarded by Woolf, a global collegiate Higher Education Institution, ensuring the same academic recognition as other higher education institutions, at a fraction of the cost and considerably more flexibility than a traditional Master’s program.
