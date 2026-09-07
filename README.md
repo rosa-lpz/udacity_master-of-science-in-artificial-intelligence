@@ -26,21 +26,22 @@ Repository to track my progress through Udacity's Master of Science in Artificia
 The Master of Science in Artificial Intelligence is designed to provide advanced knowledge and practical skills in the rapidly evolving field of AI. This program offers a comprehensive curriculum that covers core AI concepts, including machine learning, neural networks, natural language processing, and robotics. Students will gain a deep understanding of both theoretical and applied aspects of AI, preparing them to solve complex problems and innovate in various industries. The program emphasises hands-on experience through projects, case studies, and real-world applications, enabling students to apply AI techniques to create 
 
 ## Program Content
-### Foundational Modules (30 credits)
+### Core Modules (30 credits)
 * 🔄 Introduction to Computer Programming: Part 1
-  * Course: AI Programming with Python Nanodegree [GitHub](https://github.com/rosa-lpz/udacity_ai-programming-with-python-nanodegree/)
+  * [AI Programming with Python Nanodegree](core/ai-programming-with-python/)
   * Assesments
     
-#### Data Science 
-* 🔄 [Applied Data Analytics](https://github.com/rosa-lpz/udacity_applied-data-analytics/)
-  * Courses:
-  *  Data Analysis Nanodegree
-  *  tatistics for Data Analysis Nanodegree
+* 🔄 Applied Data Analytics
+  * Data Analysis Nanodegree
+  * [Statistics for Data Analysis Nanodegree](statistics-for-data-analysis)
 
-#### Artificial Intelligence
-* ⬜ Introduction to Artificial Intelligence
+* 🔄 Introduction to Artificial Intelligence 
+  * [Generative AI Nanodegree](core/generative-ai/)
+
 * ⬜ Introduction to Machine Learning
-* ⬜ Ethical Artifical Intelligence Practices
+  * Introduction to Machine Learning with Pytorch
+
+* ⬜ Ethical Artificial Intelligence Practices
 * ⬜ Intelligent Systems
 * ⬜ Introduction to Deep Learning
 
@@ -52,9 +53,9 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
   
 #### Artificial Intelligence
 * ⬜ Deep Learning
-* ⬜ Natural Language PRocessing
+* ⬜ Natural Language Processing
 * ⬜ Computer Vision
- 
+
 #### Autonomous systems
 * 🔄 Introduction to Self-Driving Cars Nanodegree [Website](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) | [GitHub](https://github.com/rosa-lpz/udacity_introduction-to-self-driving-cars-nanodegree) 
 * 🔄 Self Driving Car Engineer [Website](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013) | [GitHub](https://github.com/rosa-lpz/udacity_self-driving-car-engineer-nanodegree)
