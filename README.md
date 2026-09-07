@@ -32,8 +32,8 @@ The Master of Science in Artificial Intelligence is designed to provide advanced
   * Assesments
     
 * 🔄 Applied Data Analytics
-  * Data Analysis Nanodegree
-  * [Statistics for Data Analysis Nanodegree](core/statistics-for-data-analysis)
+  * [Data Analyst Nanodegree](core/applied-data-analytics/data-analyst)
+  * [Statistics for Data Analysis Nanodegree](core/applied-data-analytics/statistics-for-da)
 
 * 🔄 Introduction to Artificial Intelligence 
   * [Generative AI Nanodegree](core/generative-ai/)
